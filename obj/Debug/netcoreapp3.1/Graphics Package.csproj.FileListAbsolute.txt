@@ -1,0 +1,19 @@
+C:\Users\hesha\Desktop\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.exe
+C:\Users\hesha\Desktop\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.deps.json
+C:\Users\hesha\Desktop\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.runtimeconfig.json
+C:\Users\hesha\Desktop\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.runtimeconfig.dev.json
+C:\Users\hesha\Desktop\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.dll
+C:\Users\hesha\Desktop\Graphics Package\bin\Debug\netcoreapp3.1\Graphics Package.pdb
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.csprojAssemblyReference.cache
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.Main.resources
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.csproj.GenerateResource.cache
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.AssemblyInfoInputs.cache
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.AssemblyInfo.cs
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.csproj.CoreCompileInputs.cache
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.dll
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.pdb
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics Package.genruntimeconfig.cache
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.BresenhemForm.resources
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.CircleForm.resources
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.DDAForm.resources
+C:\Users\hesha\Desktop\Graphics Package\obj\Debug\netcoreapp3.1\Graphics_Package.EllipseForm.resources
